@@ -1,6 +1,6 @@
 # Color models 
 
-Here is some *color models* that can be usefull to visualization the colors. 
+Here is some *color models* that can be usefull to visualize the colors. 
 
 ### Example 
 
